@@ -19,7 +19,7 @@ library(MASS)
 #----------------------------------------------------------------------------------
 setwd("~/Desktop/FFA")
 d <- read.csv("FF_WeeklyPoints.csv")
-LeagueScores <- read.csv("EskBoy_WeeklyScores2018.csv")
+LeagueScores <- read.csv("WeeklyScores2018.csv")
 #Get mean and sd of weekly league scores
 WeeklyMeanScore <- mean(LeagueScores[,1])
 WeeklySDScore <- sd(LeagueScores[,1])
