@@ -1,6 +1,5 @@
 #Fantasy football analysis
 ##Effect of "boom or bust" players on season win totals
-##Evan R.DeLancey
 
 
 #----------------------------------------------------------------------------------
