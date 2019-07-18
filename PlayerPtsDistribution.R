@@ -1,6 +1,5 @@
 #Fantasy football analysis
 ##approximating players weekly score distribution
-##Evan R.DeLancey
 
 
 library(ggplot2)
